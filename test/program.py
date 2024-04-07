@@ -1,3 +1,4 @@
+import re
 import sys
 
 from PIL import Image
