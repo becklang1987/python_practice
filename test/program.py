@@ -1,5 +1,8 @@
 import re
 import sys
+import paramiko
+paramiko.SSHClient
+
 
 from PIL import Image
 import os
